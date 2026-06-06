@@ -31,6 +31,8 @@ import ProductivityPanel from './panels/ProductivityPanel';
 import TriviaPanel from './panels/TriviaPanel';
 import CountriesPanel from './panels/CountriesPanel';
 
+import '../styles/dashboard.css';
+
 const TABS = [
   'Overview',
   'Users',
